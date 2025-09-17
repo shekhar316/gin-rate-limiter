@@ -1,4 +1,4 @@
-# Gin Rate LLmiter
+# Gin Rate Limiter
 
 A versatile, and pluggable rate-limiting middleware for the [Gin](https://github.com/gin-gonic/gin) web framework.
 
